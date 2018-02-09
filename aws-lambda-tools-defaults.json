@@ -14,7 +14,7 @@
     "function-memory-size" : 256,
     "function-timeout"     : 30,
     "function-handler"     : "AWSLambdaSES::AWSLambdaSES.Function::FunctionHandler",
-    "function-name"        : "Lambda functino name",
+    "function-name"        : "Lambda function name",
     "function-role"        : "arn of IAM Role that has access to Lambda, S3, and SES",
     "environment-variables" : ""
 }
